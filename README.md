@@ -37,7 +37,7 @@ I’m a dedicated Software Engineering student who enjoys building simple, clean
 
 ### Connect with Me  
 📧 Email: sidraalisheer@gmail.com  
-💼 LinkedIn: linkedin.com/in/sidraalisheer 
+💼 LinkedIn: https://linkedin.com/in/sidraalisheer 
 
 ---
 
