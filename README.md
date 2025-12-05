@@ -1,2 +1,2 @@
 # sidra_alisheer
-My GitHub profile repository.
+My GitHub profile repositor.
